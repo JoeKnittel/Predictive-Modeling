@@ -1,5 +1,5 @@
 # Python
-Predictive Modeling Using NLP (2013)
+Predictive Modeling Using NLP
 
 This project was completed as an assignment for a graduate school course in natural language processing. 
 
