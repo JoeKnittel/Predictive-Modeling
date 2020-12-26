@@ -11,7 +11,7 @@ A special type of markov model called an [n-gram model](https://en.wikipedia.org
 
 <hr>
 
-### Included in this repository: 
+### Contained in this repository: 
 
 - code written in python
 - training data for the model 
