@@ -7,7 +7,7 @@ The program takes a document as input and outputs the most likely language in wh
 
 <img src = "https://github.com/JosephKnittel/Python/blob/main/Images/output.png">
 
-A special type of markov model called an [n-gram model](https://en.wikipedia.org/wiki/N-gram) is used to perform this task.
+A special type of [markov model](https://en.wikipedia.org/wiki/Markov_chain) called an [n-gram model](https://en.wikipedia.org/wiki/N-gram) is used to perform this task.
 
 <hr>
 
