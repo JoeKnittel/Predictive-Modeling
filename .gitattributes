@@ -1,4 +1,4 @@
-# reclassifies generic data files as python files within github's linguist interpreter:
+# re-classifies generic data files as python files within github's linguist interpreter:
 *.en linguist-language=Python
 *.de linguist-language=Python
 *.es linguist-language=Python
