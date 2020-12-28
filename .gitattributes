@@ -1,4 +1,4 @@
-# reclassifies `.rb` files as Java:
+# reclassifies data files as Python:
 *.en linguist-language=Python
 *.de linguist-language=Python
 *.sp linguist-language=Python
