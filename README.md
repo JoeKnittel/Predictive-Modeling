@@ -1,5 +1,5 @@
 # Python
-## Predictive Modelling Using NLP
+## Predictive Modeling Using NLP
 
 *This project was completed as an assignment for a graduate-level computer science course in natural language processing (CS 2731) at the University of Pittsburgh.* 
 
