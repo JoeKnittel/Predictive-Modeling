@@ -5,7 +5,7 @@
 
 **The program takes a document as input and outputs the most likely language in which it was written, based on the document's atomic structure.** 
 
-A special type of [markov model](https://en.wikipedia.org/wiki/Markov_chain) called an [n-gram model](https://en.wikipedia.org/wiki/N-gram) is used to perform this task. Interestingly, [MLE](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), a concept frequently utilized in actuarial science, provides the basis for the model.
+A special type of [markov model](https://en.wikipedia.org/wiki/Markov_chain) called an [n-gram model](https://en.wikipedia.org/wiki/N-gram) is used to perform this task. Interestingly, [MLE](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), an underlying concept frequently utilized in actuarial science, provides the basis for the model.
 
 Below is an image depicting the program's output after running with the test document as input:
 
