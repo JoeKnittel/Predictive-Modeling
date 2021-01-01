@@ -17,7 +17,7 @@ The included report provides considerable additional information about the progr
 
 ### Contained in this repository: 
 
-- code written in Python
-- training data for the model
-- a test document
-- a report describing, in detail, the nature of this project
+- Code written in Python
+- Training data for the model
+- Test document
+- Report describing, in detail, the nature of this project
