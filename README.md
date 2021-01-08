@@ -1,7 +1,7 @@
 # Python
 ## Predictive Modeling Using NLP
 
-*This project was completed as an assignment for a graduate-level computer science course in natural language processing (CS 2731) at the University of Pittsburgh.* 
+*This project was completed as an assignment for a graduate-level computer science course in Natural Language Processing (CS 2731) at the University of Pittsburgh.* 
 
 **The program takes a document as input and outputs the most likely language in which it was written, based on the document's atomic structure.** 
 
@@ -11,7 +11,7 @@ Below is an image depicting the program's output after running with the test doc
 
 <img src = "https://github.com/JosephKnittel/Python/blob/main/Images/output.png">
 
-The included report provides considerable additional information about the program: motivation for the model, how the model is implemented in python, and how the program is used. 
+The included report provides considerable additional information about the program: motivation for the model, how the model is implemented in Python, and how the program is used. 
 
 <hr>
 
