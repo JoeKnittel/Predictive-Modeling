@@ -1,5 +1,5 @@
-# Python
-## Predictive Modeling Using NLP
+# Predictive-Modeling
+## Document Language Prediction Using an N-Gram Model (2013)
 
 *This project was completed as an assignment for a graduate-level computer science course in Natural Language Processing (CS 2731) at the University of Pittsburgh.* 
 
